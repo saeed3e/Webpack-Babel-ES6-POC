@@ -1,0 +1,1 @@
+How to setup webpack with Babel (ES6 transpiler) and achieve inheritance. 
