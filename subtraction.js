@@ -1,8 +1,7 @@
-import { addition } from './content.js';
-
+import { addition } from './addition.js';
 export class subtraction extends addition{
   constructor(){
-    super();
+  	super();
     this.y = this.x - 5 ;
   }
 }
