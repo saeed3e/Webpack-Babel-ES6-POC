@@ -1,4 +1,4 @@
-How to setup webpack with Babel (ES6 transpiler) and achieve inheritance. 
+How to setup grunt with webpack and Babel (ES6 transpiler).
 
 ## Installation
 
@@ -9,9 +9,18 @@ Run command :  webpack
 
 ```
 
-### Issue: Run build using webpack, build.js contain duplicate code set in each Webpack module 1,2,3,4.
+### This demo demonstrate:
+```
+  How to use inheritance.
+  ES6 Import and export.
+```
+
+### Issue:
+```
+Run build using webpack, build.js contain duplicate code set in each Webpack module 1,2,3,4.
 
 One set of duplicate code is look similar as below
+```
 
 ```javascript
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
