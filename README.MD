@@ -1,4 +1,4 @@
-How to setup grunt with webpack and Babel (ES6 transpiler).
+How to setup webpack with Babel (ES6 transpiler).
 
 ## Installation
 
