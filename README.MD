@@ -3,6 +3,7 @@ How to setup grunt with webpack and Babel (ES6 transpiler).
 ## Installation
 
 ```Text
+npm install -g webpack
 npm install babel-loader babel-core babel-preset-es2015 --save-dev
 
 Run command :  webpack
